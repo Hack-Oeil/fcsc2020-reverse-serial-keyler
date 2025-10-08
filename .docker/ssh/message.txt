@@ -9,8 +9,8 @@
 ░       ▒ ▒ ░░    ░░   ░  ░  ░░ ░  ░   ▒    ░ ░  ░    ░   ░  ░  ░  
 Bienvenue sur le serveur SSH de Cyrhades
 
-Utilisez netcat pour accéder au challenge sur le serveur serial-keyler.cyrhades.com!
+Utilisez netcat pour accéder au challenge sur le serveur serial-keyler.cyrhades.fr!
 
-*****:~$ nc serial-keyler.cyrhades.com:4000
+*****:~$ nc serial-keyler.cyrhades.fr:4000
 
 Bonne chance !
